@@ -1,6 +1,6 @@
 # 🖥️ Active Directory Lab – IT Help Desk / SysAdmin Project
 
-This project demonstrates a **Level 1–3 IT Support Lab Environment** built using **VirtualBox**, **Windows Server 2022**, and **Windows 10 Clients**.  
+This project demonstrates a **Level 2–3 IT Support Lab Environment** built using **VirtualBox**, **Windows Server 2022**, and **Windows 10 Clients**.  
 It showcases skills in **Active Directory**, **DNS**, **Group Policy Management**, **Network Configuration**, and **User Administration** — essential for IT Help Desk and System Administrator roles.
 
 ---
