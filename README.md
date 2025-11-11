@@ -1,6 +1,6 @@
 #  Active Directory Lab  IT Help Desk  Project
 
-## ⚙️ Lab Overview
+##  Lab Overview
 
 | Component | Details |
 |------------|----------|
@@ -83,6 +83,6 @@
 ---
 
 
-## 💼 Author
+##  Author
 **Mayedson Pierre**  
 
