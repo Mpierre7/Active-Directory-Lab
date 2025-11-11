@@ -14,16 +14,6 @@
 | **Roles Installed** | AD DS, DNS, File Services |
 | **Purpose** | Simulate enterprise Active Directory environment with domain-joined clients and GPO management. |
 
----
-
-##  Project Objectives
-
-- Configure a **virtual network** for isolated AD testing.
-- Deploy and configure **Windows Server 2022** as a **Domain Controller**.
-- Join a **Windows 10 Client** to the domain.
-- Create and manage **organizational units (OUs)**, **users**, and **groups**.
-- Apply and verify **Group Policy Objects (GPOs)**.
-- Demonstrate **network configuration** and **domain verification** using PowerShell.
 
 ---
 
