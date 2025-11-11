@@ -1,9 +1,4 @@
-# 🖥️ Active Directory Lab – IT Help Desk / SysAdmin Project
-
-This project demonstrates a **Level 2–3 IT Support Lab Environment** built using **VirtualBox**, **Windows Server 2022**, and **Windows 10 Clients**.  
-It showcases skills in **Active Directory**, **DNS**, **Group Policy Management**, **Network Configuration**, and **User Administration** — essential for IT Help Desk and System Administrator roles.
-
----
+#  Active Directory Lab  IT Help Desk  Project
 
 ## ⚙️ Lab Overview
 
@@ -21,7 +16,7 @@ It showcases skills in **Active Directory**, **DNS**, **Group Policy Management*
 
 ---
 
-## 🧩 Project Objectives
+##  Project Objectives
 
 - Configure a **virtual network** for isolated AD testing.
 - Deploy and configure **Windows Server 2022** as a **Domain Controller**.
@@ -32,7 +27,7 @@ It showcases skills in **Active Directory**, **DNS**, **Group Policy Management*
 
 ---
 
-## 🏗️ Setup Steps (Highlights)
+##  Setup Steps (Highlights)
 
 ### 1. Virtual Machine Configuration
 - Created VM in VirtualBox for **Windows Server 2022**  
@@ -87,32 +82,7 @@ It showcases skills in **Active Directory**, **DNS**, **Group Policy Management*
 
 ---
 
-## 🧠 Skills Demonstrated
-
-✅ Active Directory Configuration  
-✅ DNS Management  
-✅ Group Policy Creation & Linking  
-✅ OU and Security Group Management  
-✅ Domain Join and Verification  
-✅ PowerShell Administration  
-✅ Network Troubleshooting  
-
----
-
-## 📸 Screenshots Folder
-
-All configuration screenshots can be found in the `/Screenshots` directory of this repository.
-
----
 
 ## 💼 Author
 **Mayedson Pierre**  
 
-
----
-
-## 🏁 Outcome
-This lab successfully replicates a small-scale corporate IT environment — providing hands-on experience with real-world **L2/L3 administrative tasks** such as:
-- Managing domain-joined systems  
-- Applying centralized policies  
-- Administering AD users, computers, and groups  
